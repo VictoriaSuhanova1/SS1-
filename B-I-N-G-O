@@ -11,7 +11,7 @@ set G-1  "G"
 new O-1 string
 set O-1 "O"
 
-log string >>B >>"-">>I >>"-">>N >>"-">>G >>"-">>O
+log string >>B-1 >>"-">>I-1 >>"-">>N-1 >>"-">>G-1 >>"-">>O-1
 
 delete B-1
 delete I-1
